@@ -5,7 +5,7 @@ Este projeto demonstra um fluxo analítico de ponta a ponta voltado para **Marke
 
 O objetivo de negócio aqui é sair do dado bruto de campanhas de Ads, realizar o tratamento e estruturar uma modelagem relacional capaz de cruzar custos de mídia com transações aprovadas, revelando o verdadeiro **Retorno Sobre Investimento (ROI)** por canal de aquisição.
 
-## 🛠️ Stack Tecnológica
+## Stack Tecnológica
 * **Linguagem:** Python (Pandas) & SQL Avançado.
 * **Conceitos Aplicados:** Data Lake (AWS S3 mock), ETL/Data Prep, Modelagem de Dados, CTEs, Window Functions.
 * **Visualização:** Estrutura pronta para consumo em ferramentas como Looker Studio.
